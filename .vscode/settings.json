@@ -4,5 +4,6 @@
     "python.formatting.blackArgs": [
         "--line-length",
         "79"
-    ]
+    ],
+    "vim.easymotion": true
 }
